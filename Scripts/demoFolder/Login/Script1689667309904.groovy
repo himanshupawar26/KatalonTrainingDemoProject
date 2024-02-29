@@ -29,3 +29,5 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/p_Paul Collings'))
 
+WebUI.closeBrowser()
+
